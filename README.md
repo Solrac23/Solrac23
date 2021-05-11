@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Solrac23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solrac23&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrac23&layout=demo&langs_count=10&theme=prussian"/>
+  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solrac23&layout=demo&langs_count=10&theme=prussian"/>
 </div>
 
   ##
